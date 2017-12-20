@@ -46,7 +46,7 @@ class App extends Component{
                     theDifference = {returnOnInvestment: updatedValue};
                     break;
             }   
-            if(updatedValue.index)
+         
             
             //If the value of the input is invalid, set the value to 0
             if(Number.isNaN(updatedValue)){                

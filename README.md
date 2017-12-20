@@ -25,5 +25,3 @@ To Run,
 or
 
 > yarn dev
-
-
